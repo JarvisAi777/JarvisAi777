@@ -8,9 +8,9 @@
 - 📫 How to reach me jarvisai77777770@gmail.com
 - ⚡ I love lifting weights and playing badminton 
 ### Connect with me:
-<div href="https://www.linkedin.com/in/rakshit-rai-40a540308/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Rakshit's LinkedIn" width=100px height=40px  />
-</div>
+<a href="https://www.linkedin.com/in/rakshit-rai-40a540308/" target="_blank">
+  <img alt="Rakshit's LinkedIn" width=100 src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+</a>
 
 ### Languages and Tools:
 <div>
