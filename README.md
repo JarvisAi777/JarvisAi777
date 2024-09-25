@@ -8,10 +8,9 @@
 - 📫 How to reach me jarvisai77777770@gmail.com
 - ⚡ I love lifting weights and playing badminton 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/rakshit-rai-40a540308/">
-  <img align="left" alt="Rakshit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</br>
+<div href="https://www.linkedin.com/in/rakshit-rai-40a540308/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="Rakshit's LinkedIn" width=100px height=40px  />
+</div>
 
 ### Languages and Tools:
 <div>
@@ -23,7 +22,3 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width=40 height=40/>
 
 </div>
-<!---
-A-A-D-I-C-O-D-E/A-A-D-I-C-O-D-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
